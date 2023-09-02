@@ -28,7 +28,7 @@ pyshorteners
 countryinfo
 datetime
 pytz
-dnspython
+dnspython 2.4.2.
 python-math
 psutil==5.9.4
 Pillow
